@@ -1,7 +1,7 @@
 const data = require('../data/zoo_data');
 
 function getSpeciesByIds(...ids) {
-  if (ids === []) {
+  if (ids === undefined) {
     return [];
   }
   const filteredSpecies = data.species.filter((speciesId) => ids.includes(speciesId.id));
