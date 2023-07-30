@@ -1,13 +1,30 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<div align="center">
+  <img alt="image-zoo-functions" src="https://i.imgur.com/vLVjChw.png"/>
+</div>
+<h1 align="center">Zoo Functions</h1>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<p align="center">
+Utilizei Higher Order Functions como forEach, filter, find, map e reduce para desenvolver funções que buscassem informações sobre animais e colaboradores de um zoológico (dados disponíveis na pasta data, aqruivo "zoo_data").</p>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## Tecnologias utilizadas
+[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+&nbsp;
+
+
+## Baixando projeto:
+
+Clone o repositório 
+```bash
+git@github.com:graciele-sampaio/zoo-functions.git
+```
+
+Entre na pasta criada:
+```bash
+cd zoo-functions
+```
+
+Instale as dependências
+```bash
+npm install
+```
